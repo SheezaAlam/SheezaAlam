@@ -1,6 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-<h1 align="center">Hi 👋, I'm Sheeza Alam Khan</h1>
+
+
 <h3 align="center">Data Analyst | Python Enthusiast | Transforming Data into Insights</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -9,26 +9,22 @@
 
 ---
 
-### 👩‍💻 About Me:
-- 🔭 **Currently Working On**: Data Analysis of World Cup 2023  
-- 🌱 **Currently Learning**: Power BI  
-- 👯 **Looking to Collaborate On**: Data Analytics Projects  
-- 💬 **Ask Me About**: Python, SQL Queries, Exploratory Data Analysis (EDA)  
-- 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)  
-- ⚡ **Fun Fact**: I’m a Business Owner, Computer Science Student, and Passionate Data Analyst.
+###  About Me:
+-  **Currently Working On**: Data Analysis of World Cup 2023  
+-  **Currently Learning**: Power BI  
+-  **Looking to Collaborate On**: Data Analytics Projects  
+- **Ask Me About**: Python, SQL Queries, Exploratory Data Analysis (EDA)  
+-  **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)  
+
 
 ---
 
 ### 📂 **Projects**  
-Explore all my work here: [LinkedIn Portfolio](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)
+Explore all my work here
 
 ---
 
-### 🌐 **Connect With Me:**
-<a href="https://instagram.com/polaroid_storyyy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fun.facts_videos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 
----
 
 ### 💻 **Languages & Tools**  
 <p align="left">  
