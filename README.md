@@ -1,7 +1,3 @@
-Got it ✅
-Here’s your **ready-to-copy** README in one block — just paste it into your GitHub `README.md` file.
-
----
 
 ````markdown
 <h1 align="center">💻 Cybersecurity Enthusiast | Data Analyst | Python Developer</h1>
