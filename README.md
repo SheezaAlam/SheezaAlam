@@ -1,5 +1,3 @@
-
-````markdown
 <h1 align="center">💻 Cybersecurity Enthusiast | Data Analyst | Python Developer</h1>
 
 <img align="right" alt="Hacking Animation" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -11,21 +9,19 @@
 ---
 
 ## 🕵️ About Me  
-```diff
-+ Passionate about cybersecurity, data analysis, and problem-solving
-+ Love creating scripts, tools, and dashboards that turn raw data into insights
-+ Keen learner with hands-on experience in Python, SQL, and analytical tools
-````
+- 🔹 Passionate about **Cybersecurity**, **Data Analysis**, and **Problem-Solving**  
+- 🔹 Create scripts, tools, and dashboards that transform raw data into insights  
+- 🔹 Love exploring new technologies and building impactful projects  
 
-* **Currently Working On**: Data Analysis of World Cup 2023
-* **Currently Learning**: Power BI + Cybersecurity Fundamentals
-* **Looking to Collaborate On**: Data Analytics & Cybersecurity Projects
-* **Ask Me About**: Python, SQL, EDA, Threat Analysis Basics
-* **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)
+**Currently Working On:** Data Analysis of World Cup 2023  
+**Currently Learning:** Power BI + Cybersecurity Fundamentals  
+**Looking to Collaborate On:** Data Analytics & Cybersecurity Projects  
+**Ask Me About:** Python, SQL, EDA, Threat Analysis Basics  
+**Reach Me On:** [LinkedIn](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
 <p align="left">  
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
@@ -38,27 +34,7 @@
 
 ---
 
-## 🚀 Experience & Learning Journey
-
-* 📊 **Data Analysis**: EDA, visualization, insights from large datasets
-* 🔐 **Cybersecurity Basics**: Threat analysis, secure coding principles, OSINT
-* 🛠️ **Projects**: Python scripts, SQL dashboards, Power BI reports
-* 📚 **Current Learning Path**:
-
-  * Power BI
-  * Cybersecurity (Network Security, Ethical Hacking Fundamentals)
-  * Rust Programming
-
----
-
-## 📂 Featured Projects
-
-🔗 *Check out my repositories to see more cool stuff*
-
----
-
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sheezaalam&show_icons=true&theme=radical" />
 </p>
@@ -71,16 +47,8 @@
 
 ---
 
-## 🧠 Quote for You
+## 📂 Featured Projects  
+- **World Cup 2023 Analysis** – Data visualizations & insights  
+- **SQL Dashboard** – Interactive analytics platform  
+- **Python Automation Scripts** – Automating everyday tasks  
 
-> *"The quieter you become, the more you are able to hear." — Kali Linux Terminal*
-
-```
-
----
-
-If you paste this as is into your GitHub profile README,  
-it will have **the hacking gif + cybersecurity + data analytics theme** all in one.  
-
-Do you want me to also **dark-theme your GitHub stats and add ASCII hacker text** for more hacker vibes? That would make it even cooler.
-```
