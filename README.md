@@ -1,24 +1,4 @@
 
-```markdown
-<h1 align="center">
-<img src="https://img.shields.io/badge/Hacker_Mode-ON-00ff00?style=for-the-badge&logo=linux&logoColor=black" />
-</h1>
-
-<h3 align="center">
-<pre>
-███████╗██╗  ██╗███████╗███████╗███████╗ █████╗      █████╗ ██╗      █████╗ ███╗   ███╗
-██╔════╝██║  ██║██╔════╝██╔════╝██╔════╝██╔══██╗    ██╔══██╗██║     ██╔══██╗████╗ ████║
-███████╗███████║█████╗  █████╗  ███████╗███████║    ███████║██║     ███████║██╔████╔██║
-╚════██║██╔══██║██╔══╝  ██╔══╝  ╚════██║██╔══██║    ██╔══██║██║     ██╔══██║██║╚██╔╝██║
-███████║██║  ██║███████╗███████╗███████║██║  ██║    ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-</pre>
-</h3>
-
-<img align="right" alt="Hacking Animation" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-```
-
 \$ whoami
 Cybersecurity Enthusiast | Data Analyst | Python Developer
 
@@ -88,9 +68,3 @@ On branch main — nothing to commit, working tree clean
 ├── sql\_dashboard/
 └── python\_automation\_scripts/
 
-```
-
----
-
-
-If you want, I can also make the **ASCII banner auto-change colors** each time the page is loaded using HTML inside the README. That would make it look *animated*.
