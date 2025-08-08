@@ -1,54 +1,101 @@
-<h1 align="center">💻 Cybersecurity Enthusiast | Data Analyst | Python Developer</h1>
+
+
+```markdown
+<h1 align="center">  
+<pre>
+        ███████╗██╗  ██╗███████╗███████╗███████╗ █████╗      █████╗ ██╗      █████╗ ███╗   ███╗
+        ██╔════╝██║  ██║██╔════╝██╔════╝██╔════╝██╔══██╗    ██╔══██╗██║     ██╔══██╗████╗ ████║
+        ███████╗███████║█████╗  █████╗  ███████╗███████║    ███████║██║     ███████║██╔████╔██║
+        ╚════██║██╔══██║██╔══╝  ██╔══╝  ╚════██║██╔══██║    ██╔══██║██║     ██╔══██║██║╚██╔╝██║
+        ███████║██║  ██║███████╗███████╗███████║██║  ██║    ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║
+        ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+</pre>
+</h1>
 
 <img align="right" alt="Hacking Animation" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sheezaalam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+```
+
+\$ whoami
+Cybersecurity Enthusiast | Data Analyst | Python Developer
+
+```
+```
+
+\$ pwd
+/home/sheezaalam/github
+
+```
+```
+
+\$ cat about\_me.txt
+
+> Passionate about Cybersecurity, Data Analysis, and Problem-Solving
+> Creating scripts, tools, and dashboards that transform raw data into insights
+> Exploring new technologies and building impactful projects
+
+```
+```
+
+\$ nano current\_focus.txt
+
+* Currently Working On: Data Analysis of World Cup 2023
+* Currently Learning: Power BI + Cybersecurity Fundamentals
+* Looking to Collaborate On: Data Analytics & Cybersecurity Projects
+* Ask Me About: Python, SQL, EDA, Threat Analysis Basics
+* Contact: LinkedIn - [https://www.linkedin.com/in/shiza-alam-khan-2b4313258/](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)
+
+```
 
 ---
 
-## 🕵️ About Me  
-- 🔹 Passionate about **Cybersecurity**, **Data Analysis**, and **Problem-Solving**  
-- 🔹 Create scripts, tools, and dashboards that transform raw data into insights  
-- 🔹 Love exploring new technologies and building impactful projects  
+## 🛠️ Tech Stack  
+```
 
-**Currently Working On:** Data Analysis of World Cup 2023  
-**Currently Learning:** Power BI + Cybersecurity Fundamentals  
-**Looking to Collaborate On:** Data Analytics & Cybersecurity Projects  
-**Ask Me About:** Python, SQL, EDA, Threat Analysis Basics  
-**Reach Me On:** [LinkedIn](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)  
+\$ ls tech\_stack/
+python/  mysql/  sqlserver/  c++/  c#/  rust/
 
----
-
-## 🛠️ Tech Stack & Tools  
-
+```
 <p align="left">  
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
+  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40"/></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
+```
+
+\$ git status
+On branch main
+nothing to commit, working tree clean
+
+```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheezaalam&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheezaalam&show_icons=true&theme=chartreuse-dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheezaalam&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheezaalam&theme=chartreuse-dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheezaalam&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheezaalam&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
 
-## 📂 Featured Projects  
-- **World Cup 2023 Analysis** – Data visualizations & insights  
-- **SQL Dashboard** – Interactive analytics platform  
-- **Python Automation Scripts** – Automating everyday tasks  
+## 📂 Projects  
+```
+
+\$ tree projects/
+├── world\_cup\_2023\_analysis/
+├── sql\_dashboard/
+└── python\_automation\_scripts/
+
+```
+
+---
 
