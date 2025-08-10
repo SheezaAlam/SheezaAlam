@@ -1,6 +1,6 @@
 
 \$ whoami
-Cybersecurity Enthusiast | Data Analyst | Python Developer
+Cybersecurity Enthusiast | Data Analyst | 
 
 \$ pwd
 /home/sheezaalam/github
@@ -13,8 +13,7 @@ Cybersecurity Enthusiast | Data Analyst | Python Developer
 
 \$ nano current\_focus.txt
 
-* Currently Working On: Data Analysis of World Cup 2023
-* Currently Learning: Power BI + Cybersecurity Fundamentals
+* Currently Learning: Cybersecurity Fundamentals
 * Looking to Collaborate On: Data Analytics & Cybersecurity Projects
 * Ask Me About: Python, SQL, EDA, Threat Analysis Basics
 * Contact: LinkedIn - [https://www.linkedin.com/in/shiza-alam-khan-2b4313258/](https://www.linkedin.com/in/shiza-alam-khan-2b4313258/)
