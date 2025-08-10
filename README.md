@@ -14,7 +14,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
@@ -30,7 +30,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,7 +43,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -55,7 +55,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/shiza-alam-khan-2b4313258/" target="_blank">
