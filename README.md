@@ -1,11 +1,8 @@
 
-
-````markdown
-# Shiza Alam Khan
-
 ```bash
 $ whoami
 Shiza Alam Khan
+Computer Science Undergraduate 
 
 $ pwd
 /home/sheezakhan/projects
@@ -21,13 +18,13 @@ Passionate about cryptography, machine learning, and open source.
 
 <p align="center">
   <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
-    <kbd>👶 AI Baby Monitor</kbd>
+    <kbd> AI Baby Monitor</kbd>
   </a>
   <a href="https://github.com/SheezaAlam/Therapist-Model" style="margin: 0 10px;">
-    <kbd>🧠 Therapist AI</kbd>
+    <kbd> Therapist AI</kbd>
   </a>
   <a href="https://github.com/SheezaAlam/cryptography-implementations" style="margin: 0 10px;">
-    <kbd>🔐 Crypto Collection</kbd>
+    <kbd> Crypto Collection</kbd>
   </a>
 </p>
 
