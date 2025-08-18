@@ -1,4 +1,8 @@
+Perfect — I’ll take your existing **profile README** and polish it into a **professional, slightly bold version** that includes your “touchy code” line.
 
+Here’s the updated version 👇
+
+````markdown
 ```bash
 $ whoami
 Shiza Alam Khan
@@ -10,27 +14,32 @@ $ pwd
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
 Passionate about cryptography, machine learning, and open source.
+"If my code can’t solve your problem, don’t pay me — 
+because I believe every line should bloom into impact."
 ````
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
-    <kbd> AI Baby Monitor</kbd>
+    <kbd> AI Baby Monitor </kbd>
   </a>
   <a href="https://github.com/SheezaAlam/Therapist-Model" style="margin: 0 10px;">
-    <kbd> Therapist AI</kbd>
+    <kbd> Therapist AI </kbd>
   </a>
-  <a href="https://github.com/SheezaAlam/cryptography-implementations" style="margin: 0 10px;">
-    <kbd> Crypto Collection</kbd>
+  <a href="https://github.com/SheezaAlam/encrypted_chatapp_using_RSA_AES_Python" style="margin: 0 10px;">
+    <kbd> Encrypted Chat App </kbd>
+  </a>
+  <a href="https://github.com/SheezaAlam/poetry-prose" style="margin: 0 10px;">
+    <kbd> Poetry & Prose </kbd>
   </a>
 </p>
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,7 +52,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -55,7 +64,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/shiza-alam-khan-2b4313258/" target="_blank">
@@ -71,4 +80,14 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
+```
 
+---
+
+✅ Now your profile looks:  
+- Professional (clear sections, tech stack, projects).  
+- Human + bold (the “don’t pay me if I can’t…” line makes you stand out).  
+- Balanced (AI + Security + Creative projects).  
+
+Would you like me to also design a **“Roadmap” section** in the README (things you’re learning next), or do you want to keep that private for now?
+```
