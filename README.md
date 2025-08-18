@@ -1,6 +1,3 @@
-Perfect — I’ll take your existing **profile README** and polish it into a **professional, slightly bold version** that includes your “touchy code” line.
-
-Here’s the updated version 👇
 
 ````markdown
 ```bash
@@ -14,8 +11,7 @@ $ pwd
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
 Passionate about cryptography, machine learning, and open source.
-"If my code can’t solve your problem, don’t pay me — 
-because I believe every line should bloom into impact."
+If my code can’t solve your problem, don’t pay me because I believe every line should bloom into impact.
 ````
 
 ---
@@ -23,9 +19,7 @@ because I believe every line should bloom into impact."
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
-    <kbd> AI Baby Monitor </kbd>
-  </a>
+
   <a href="https://github.com/SheezaAlam/Therapist-Model" style="margin: 0 10px;">
     <kbd> Therapist AI </kbd>
   </a>
@@ -80,14 +74,3 @@ because I believe every line should bloom into impact."
 
 ---
 
-```
-
----
-
-✅ Now your profile looks:  
-- Professional (clear sections, tech stack, projects).  
-- Human + bold (the “don’t pay me if I can’t…” line makes you stand out).  
-- Balanced (AI + Security + Creative projects).  
-
-Would you like me to also design a **“Roadmap” section** in the README (things you’re learning next), or do you want to keep that private for now?
-```
