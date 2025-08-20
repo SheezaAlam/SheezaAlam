@@ -11,6 +11,8 @@ $ pwd
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
 Passionate about cryptography, machine learning, and open source.
+I’m not here to clock hours. If my code doesn’t solve your problem, it’s not worth a penny
+
 ---
 
 ## 🚀 Featured Projects
