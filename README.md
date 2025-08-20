@@ -1,5 +1,4 @@
 
-````markdown
 ```bash
 $ whoami
 Shiza Alam Khan
@@ -11,14 +10,17 @@ $ pwd
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
 Passionate about cryptography, machine learning, and open source.
-I’m not here to clock hours. If my code doesn’t solve your problem, it’s not worth a penny
+
+````
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-
+  <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
+    <kbd> AI Baby Monitor </kbd>
+  </a>
   <a href="https://github.com/SheezaAlam/Therapist-Model" style="margin: 0 10px;">
     <kbd> Therapist AI </kbd>
   </a>
@@ -45,17 +47,18 @@ I’m not here to clock hours. If my code doesn’t solve your problem, it’s n
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheezaAlam&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -72,4 +75,6 @@ I’m not here to clock hours. If my code doesn’t solve your problem, it’s n
 </p>
 
 ---
+
+```
 
