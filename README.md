@@ -11,8 +11,6 @@ $ pwd
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
 Passionate about cryptography, machine learning, and open source.
-If my code can’t solve your problem, don’t pay me because I believe every line should bloom into impact.
-````
 
 ---
 
