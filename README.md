@@ -10,12 +10,12 @@ $ pwd
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
 Passionate about cryptography, machine learning, and open source.
-
+Currently learning Rust for systems-level security and high-performance tooling.
 ````
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
@@ -34,7 +34,7 @@ Passionate about cryptography, machine learning, and open source.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,13 +43,21 @@ Passionate about cryptography, machine learning, and open source.
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
 
+## Currently Learning
 
-##  GitHub Stats
- A passionate **Self-Learner**, always exploring, experimenting, and growing through code.
+* Rust fundamentals (ownership/borrowing, lifetimes, error handling)
+
+---
+
+## GitHub Stats
+
+A passionate **Self-Learner**, always exploring, experimenting, and growing through code.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheezaAlam&theme=tokyonight&hide_border=true" height="180px"/>
@@ -59,8 +67,7 @@ Passionate about cryptography, machine learning, and open source.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-
-##  Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/shiza-alam-khan-2b4313258/" target="_blank">
@@ -72,9 +79,8 @@ Passionate about cryptography, machine learning, and open source.
   <a href="mailto:shizaalam50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://discord.com/channels/1409601307991343199/1409601608194719985" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
-
----
-
-```
 
