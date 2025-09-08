@@ -57,16 +57,13 @@ Currently learning Rust for systems-level security and high-performance tooling.
 ## GitHub Stats
 
 A passionate **Self-Learner**, always exploring, experimenting, and growing through code.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SheezaAlam&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
-
 ## Connect With Me
 
 <p>
