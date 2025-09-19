@@ -1,3 +1,4 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=SheezaAlam&color=blue)
 
 ```bash
 $ whoami
