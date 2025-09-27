@@ -6,7 +6,7 @@ Shiza Alam Khan
 Computer Science Undergraduate 
 
 $ pwd
-/home/sheezakhan/projects
+/home/sheezaAlam/home
 
 $ cat about_me.txt
 Building AI & Cybersecurity tools to solve real-world problems.
@@ -51,7 +51,7 @@ Currently learning Rust for systems-level security and high-performance tooling.
 
 ## Currently Learning
 
-* Rust fundamentals (ownership/borrowing, lifetimes, error handling)
+* Rust & Ethical Hacking
 
 ---
 
@@ -65,6 +65,7 @@ A passionate **Self-Learner**, always exploring, experimenting, and growing thro
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
+
 ## Connect With Me
 
 <p>
