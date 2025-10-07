@@ -1,9 +1,26 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=SheezaAlam&color=blue)
+
+<div align="center">
+
+# Shiza Alam Khan  
+**Undergraduate Computer Science Student**
+
+---
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SheezaAlam&theme=prussian" width="96%" height="auto">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SheezaAlam&theme=prussian" width="48%" height="auto" style="display: inline;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SheezaAlam&theme=prussian" width="48%" height="auto" style="display: inline;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SheezaAlam&theme=prussian" width="48%" height="auto" style="display: inline;"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SheezaAlam&theme=prussian&utcOffset=+5" width="48%" height="auto" style="display: inline;"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SheezaAlam&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto">
+
+</div>
+
+---
 
 ```bash
 $ whoami
 Shiza Alam Khan
-Computer Science Undergraduate 
+Computer Science Undergraduate
 
 $ pwd
 /home/sheezaAlam/home
@@ -33,11 +50,12 @@ Currently learning Rust for systems-level security and high-performance tooling.
   </a>
 </p>
 
+
 ---
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="YOLOv5" src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
@@ -51,24 +69,25 @@ Currently learning Rust for systems-level security and high-performance tooling.
 
 ## Currently Learning
 
-* Rust & Ethical Hacking
+* Rust Programming
+* Ethical Hacking and Network Penetration Testing
 
 ---
 
 ## GitHub Stats
 
-A passionate **Self-Learner**, always exploring, experimenting, and growing through code.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-</p>
+A passionate self-learner exploring, experimenting, and evolving through code.
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
+---
+
 ## Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/shiza-alam-khan-2b4313258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -82,4 +101,7 @@ A passionate **Self-Learner**, always exploring, experimenting, and growing thro
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
+```
+
+---
 
