@@ -1,107 +1,24 @@
+# About Me:
+Computer Science student | Cybersecurity & DFIR enthusiast | Learning by building real world projects with Python, Linux, and security tools.
 
-<div align="center">
 
-# Shiza Alam Khan  
-**Undergraduate Computer Science Student**
+##  Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khan.shizaalam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shiza-alam-khan-2b4313258/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Khan_shizaalam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shizaalam50@gmail.com) 
 
----
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SheezaAlam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SheezaAlam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SheezaAlam&theme=prussian" width="96%" height="auto">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SheezaAlam&theme=prussian" width="48%" height="auto" style="display: inline;"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SheezaAlam&theme=prussian" width="48%" height="auto" style="display: inline;"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SheezaAlam&theme=prussian" width="48%" height="auto" style="display: inline;"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SheezaAlam&theme=prussian&utcOffset=+5" width="48%" height="auto" style="display: inline;"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SheezaAlam&bg_color=1E3A4C&color=00FFFF&line=FF0000&point=FFA07A&area=true&hide_border=false" width="96%" height="auto">
+##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SheezaAlam&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
-
----
-
-```bash
-$ whoami
-Shiza Alam Khan
-Computer Science Undergraduate
-
-$ pwd
-/home/sheezaAlam/home
-
-$ cat about_me.txt
-Building AI & Cybersecurity tools to solve real-world problems.
-Passionate about cryptography, machine learning, and open source.
-Currently learning Rust for systems-level security and high-performance tooling.
-````
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SheezaAlam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SheezaAlam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/SheezaAlam/AI-Powered-Baby-Monitoring-System" style="margin: 0 10px;">
-    <kbd> AI Baby Monitor </kbd>
-  </a>
-  <a href="https://github.com/SheezaAlam/Therapist-Model" style="margin: 0 10px;">
-    <kbd> Therapist AI </kbd>
-  </a>
-  <a href="https://github.com/SheezaAlam/encrypted_chatapp_using_RSA_AES_Python" style="margin: 0 10px;">
-    <kbd> Encrypted Chat App </kbd>
-  </a>
-  <a href="https://github.com/SheezaAlam/poetry-prose" style="margin: 0 10px;">
-    <kbd> Poetry & Prose </kbd>
-  </a>
-</p>
-
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="YOLOv5" src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
----
-
-## Currently Learning
-
-* Rust Programming
-* Ethical Hacking and Network Penetration Testing
-
----
-
-## GitHub Stats
-
-A passionate self-learner exploring, experimenting, and evolving through code.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SheezaAlam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheezaAlam&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiza-alam-khan-2b4313258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Khan_shizaalam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:shizaalam50@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com/channels/1409601307991343199/1409601608194719985" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-```
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
