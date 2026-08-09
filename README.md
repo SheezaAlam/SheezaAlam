@@ -4,6 +4,7 @@ Computer Science student based in Pakistan | Cybersecurity & DFIR enthusiast | L
 
 My CS degree has taken me through a bit of everything — ML, web dev, cloud, databases but my current focus is **cybersecurity**: SOC/SIEM tooling, endpoint DFIR, malware analysis, and offensive security fundamentals. The projects below are where I'm spending most of my time right now.
 
+Check out :https://sheezaalam.github.io
 ---
 
 ##  Featured Projects
