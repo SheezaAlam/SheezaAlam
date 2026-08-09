@@ -11,7 +11,6 @@ My CS degree has taken me through a bit of everything — ML, web dev, cloud, da
 -  **[Wazuh SSH Brute-Force Detection POC](https://github.com/SheezaAlam/Wazuh-SSH-BruteForce-Detection-POC)** — Wazuh SIEM proof-of-concept for real-time SSH brute-force detection using Hydra, with a full lab report and MITRE ATT&CK mapping.
 -  **[Velociraptor Deployment for Endpoint DFIR](https://github.com/SheezaAlam/Velociraptor-Deployment-Endpoint-DFIR-)** — Deploying Velociraptor across multiple Windows endpoints for digital forensics and incident response.
 -  **[Velociraptor EDR Advanced Detection Validation](https://github.com/SheezaAlam/Velociraptor-EDR-Advanced-Detection-Validation)** — Baselining clean endpoint behavior, then simulating attacker techniques (persistence, defense evasion, lateral movement) to validate detection coverage and tune out false positives.
--  **[Ethical Hacking & Penetration Testing](https://github.com/SheezaAlam/cybersecurity-ethicalhacking)** — Ethical hacking & pentesting practice using Kali Linux, done in a private lab and on authorized platforms (TryHackMe, Hack The Box).
 -  **[Smart Email Spoofing Detection](https://github.com/SheezaAlam/Smart-Email-Spoofing-Detection-)** — Detecting spoofed/phishing emails through header and authentication analysis.
 
 More projects , including earlier coursework across ML, web, and cloud are on my [repositories page](https://github.com/SheezaAlam?tab=repositories).
